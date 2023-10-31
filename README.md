@@ -120,8 +120,7 @@
           "AI and Machine Learning",
           "Hiking",
           "Photography"
-          ]
-}
+          ]}
 
 
 
